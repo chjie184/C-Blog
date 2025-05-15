@@ -1,0 +1,23 @@
+GitHub中文排行榜，帮助你发现高分优秀中文项目
+https://github.com/ChHsiching/GitHub-Chinese-Top-Charts
+
+微信小程序开发资源汇总
+https://github.com/justjavac/awesome-wechat-weapp
+
+科学上网
+https://github.com/Alvin9999/new-pac
+https://github.com/bannedbook/fanqiang
+最好用的 V2Ray 一键安装脚本 & 管理脚本
+https://github.com/233boy/v2ray
+
+互联网上的免费书籍
+https://github.com/ruanyf/free-books
+
+Git的奇技淫巧
+https://github.com/521xueweihan/git-tips
+
+科技爱好者周刊
+https://github.com/ruanyf/weekly
+
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。
+https://github.com/jaywcjlove/linux-command
